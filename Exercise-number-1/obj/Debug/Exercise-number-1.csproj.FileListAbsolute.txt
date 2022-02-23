@@ -1,0 +1,7 @@
+C:\Users\37123\Desktop\SWDFactory\Exercise-number-1\bin\Debug\Exercise-number-1.exe.config
+C:\Users\37123\Desktop\SWDFactory\Exercise-number-1\bin\Debug\Exercise-number-1.exe
+C:\Users\37123\Desktop\SWDFactory\Exercise-number-1\bin\Debug\Exercise-number-1.pdb
+C:\Users\37123\Desktop\SWDFactory\Exercise-number-1\obj\Debug\Exercise-number-1.csproj.AssemblyReference.cache
+C:\Users\37123\Desktop\SWDFactory\Exercise-number-1\obj\Debug\Exercise-number-1.csproj.CoreCompileInputs.cache
+C:\Users\37123\Desktop\SWDFactory\Exercise-number-1\obj\Debug\Exercise-number-1.exe
+C:\Users\37123\Desktop\SWDFactory\Exercise-number-1\obj\Debug\Exercise-number-1.pdb
