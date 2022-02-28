@@ -29,6 +29,41 @@ namespace Exercise_number_1
                     Console.WriteLine("The number printed by you must be at least zero!");
                 }
             }
+
+            PrintResult(CalculateSequence(p));
+
+            Console.ReadLine();
+        }
+        public static int[] CalculateSequence(int sequenceLength)
+        {
+            if (sequenceLength <= 0)
+            {
+                Console.WriteLine($"Sequence length should be greateer than 0");
+            }
+
+            int[] result = new int[sequenceLength];
+
+            for (int i = 0; i < sequenceLength; i++)
+            {
+                if (i > 1)
+                {
+                    result[i] = result[i - 1] + result[i - 2];
+                }
+                else
+                {
+                    result[i] = i;
+                }
+            }
+
+            return result;
+        }
+
+        public static void PrintResult(int[] result)
+        {
+            foreach (int i in result)
+            {
+                Console.Write($" {i}");
+            }
         }
     }
 }
